@@ -1,0 +1,10 @@
+[project]
+name = "echodistill"
+version = "0.1.0"
+description = "Noisy-to-clean audio self-distillation training code for Audio LLM robustness."
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "LicenseRef-TODO"}
+
+[tool.setuptools.packages.find]
+include = ["sdpoa*"]

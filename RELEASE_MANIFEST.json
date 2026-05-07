@@ -1,0 +1,102 @@
+{
+  ".gitignore": {
+    "sha256": "def16421887d27a282e59837d665b7873671198f9b1a7a4614f44413a981c990",
+    "bytes": 66
+  },
+  "DATASET_CARD.md": {
+    "sha256": "ab27069c8367f811ba135e56888cb70fbd95fa630f501accc76a6f19b1248185",
+    "bytes": 963
+  },
+  "LICENSE_NOTICE.txt": {
+    "sha256": "be89d291185fca23ca0b72943d463542bf57e5c019eb4ed551c5fcbf791203ad",
+    "bytes": 63
+  },
+  "README.md": {
+    "sha256": "af8109bfa18cfc79faab9a4b8e65fd57ec9279efc916f25c0ae22b74212e3063",
+    "bytes": 2668
+  },
+  "configs/default.yaml": {
+    "sha256": "b22a35a77e7f7a95b5d26f7cacfa84de906059e5f94cb085001b56d88025a46f",
+    "bytes": 1525
+  },
+  "data/dataset_stats.json": {
+    "sha256": "2b7952f7e993cdd44b39891f5b11d16d72c7cb1bc81885868e6f183c9cd870e5",
+    "bytes": 1497
+  },
+  "data/sample_instance.json": {
+    "sha256": "858cb2d39815fe3bbbee5c42031407682b5ac6fd65842da52c93fb402806b141",
+    "bytes": 488
+  },
+  "data/train.jsonl": {
+    "sha256": "fc070c28f4e2a0d32373e128342c7da1c0416fb51a15fe287f5f2574846f8723",
+    "bytes": 7560123
+  },
+  "data/val.jsonl": {
+    "sha256": "1c0b868e9ba0f1f29f604c64664a89945b601ee9faeec4ee2cd45a7058f33422",
+    "bytes": 885154
+  },
+  "examples/run_train.sh": {
+    "sha256": "77f6bbed87941943cbc244f254f8e7271e41cfdc5e818c533facf5e842996231",
+    "bytes": 197
+  },
+  "pyproject.toml": {
+    "sha256": "563511d7eecc8267b578b03fc0ddbc7ed334dfb86e423bc31d41508f73211d68",
+    "bytes": 283
+  },
+  "requirements.txt": {
+    "sha256": "508f53acfd3d50e27b6eb0c6b33922066577b98658017c4ec9ed093d6d7ebeef",
+    "bytes": 80
+  },
+  "sdpoa/__init__.py": {
+    "sha256": "b5b89e81f5e238688691f3d9e35463d4f08e287faa105a849fa758a12082408f",
+    "bytes": 28
+  },
+  "sdpoa/config.py": {
+    "sha256": "e1706fe2097435a83614a582c5cd6a892534524b1fb0ff55d5f61a1a3eae3239",
+    "bytes": 9298
+  },
+  "sdpoa/data/__init__.py": {
+    "sha256": "23ecb7e600ce1d58248767f57ca56e7cdce6f65d0375eb77761fd429c61303ea",
+    "bytes": 112
+  },
+  "sdpoa/data/dataset.py": {
+    "sha256": "fc2963653f604d23b3acfd481c3b9841cf3787864c9ee050ab51c987a01ca516",
+    "bytes": 2355
+  },
+  "sdpoa/data/schema.py": {
+    "sha256": "98e482bb775615b86e12bbf6e403bd42abe875f519125f3a095883ddf7b9908d",
+    "bytes": 847
+  },
+  "sdpoa/models/__init__.py": {
+    "sha256": "e208e971bb32987fd45d7a24b9ebc16ebc808a012ba4ea9e04784e6b2b23e65f",
+    "bytes": 103
+  },
+  "sdpoa/models/omni_adapter.py": {
+    "sha256": "e878b7293942350faa3c0d24e308d99be6f95dfa7020c8f9daa563573dc5b871",
+    "bytes": 61773
+  },
+  "sdpoa/training/__init__.py": {
+    "sha256": "0bce94255abff43e025fb944faed09c8b6ed8b5beda193c603f70b07089f137d",
+    "bytes": 76
+  },
+  "sdpoa/training/losses.py": {
+    "sha256": "5d6dd35547146450f408c75f6fd3a1145bb924f849f72814a447bfa8d6f584b6",
+    "bytes": 2498
+  },
+  "sdpoa/training/trainer.py": {
+    "sha256": "bf023dcbfdd4c070d71b343b91f6af1cca2a3bd822c29a676ec3050582d39e1a",
+    "bytes": 119441
+  },
+  "sdpoa/utils/__init__.py": {
+    "sha256": "ab1cbaae92da861c1582374d0382fef0595b93b45fc1990686e706e1347468ba",
+    "bytes": 66
+  },
+  "sdpoa/utils/audio.py": {
+    "sha256": "4dc8203a4324857c6faa902fc3837d4b85c7e4ee43a8a551e814060e8fde3879",
+    "bytes": 7572
+  },
+  "train.py": {
+    "sha256": "b1f89348cbb32965e90240ebd570bc30bde0d908686021caa6f81997cc4ed6a5",
+    "bytes": 23886
+  }
+}
