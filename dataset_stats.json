@@ -1,0 +1,73 @@
+{
+  "train": {
+    "num_samples": 14397,
+    "unique_ids": 14397,
+    "duplicate_ids": 0,
+    "missing_required_fields": 0,
+    "targets_in_choices": 14397,
+    "prompts_with_choices": 14397,
+    "noise_type_counts": {
+      "alarm": 1672,
+      "animal": 1692,
+      "crowd": 1686,
+      "gauss": 1335,
+      "laugh": 1020,
+      "machine": 1327,
+      "shower": 1565,
+      "traffic": 1311,
+      "water": 1419,
+      "wind": 1370
+    },
+    "snr_counts": {
+      "-10": 2100,
+      "-5": 2090,
+      "0": 2024,
+      "5": 1893,
+      "10": 2104,
+      "20": 2111,
+      "30": 2075
+    },
+    "removed_fields": {
+      "teacher_response": 14397,
+      "ground_truth": 14397,
+      "candidate_responses": 14397,
+      "rewards": 14397
+    }
+  },
+  "val": {
+    "num_samples": 1704,
+    "unique_ids": 1704,
+    "duplicate_ids": 0,
+    "missing_required_fields": 0,
+    "targets_in_choices": 1704,
+    "prompts_with_choices": 1704,
+    "noise_type_counts": {
+      "alarm": 219,
+      "animal": 208,
+      "crowd": 209,
+      "gauss": 144,
+      "laugh": 114,
+      "machine": 153,
+      "shower": 184,
+      "traffic": 155,
+      "water": 151,
+      "wind": 167
+    },
+    "snr_counts": {
+      "-10": 251,
+      "-5": 251,
+      "0": 234,
+      "5": 226,
+      "10": 253,
+      "20": 245,
+      "30": 244
+    },
+    "removed_fields": {
+      "teacher_response": 1704,
+      "ground_truth": 1704,
+      "candidate_responses": 1704,
+      "rewards": 1704
+    }
+  },
+  "cross_split_overlap_ids": 0
+}
