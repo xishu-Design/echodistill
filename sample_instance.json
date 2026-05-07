@@ -1,0 +1,15 @@
+{
+  "id": 19452,
+  "prompt": "What is producing the sound in the audio\nChoices: \"Airplane\", \"Motorcycle\", \"Train\", \"Sports car\"\nPlease answer the question based on the audio.",
+  "noisy_audio_path": "noise/water/snr_30/audio_noise/6MdhKh5XdZk_00-00-00_00-00-18.wav",
+  "clean_audio_path": "audio/6MdhKh5XdZk_00-00-00_00-00-18.wav",
+  "choices": [
+    "Airplane",
+    "Motorcycle",
+    "Train",
+    "Sports car"
+  ],
+  "target": "Airplane",
+  "noise_type": "water",
+  "snr": 30
+}
